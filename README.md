@@ -1,7 +1,10 @@
 - 👋 Hola, soy Cristian Rios
-- 👀 estoy muy interesado en los temas de tecnologia especialmente que involucran el desarrollo de software
-- 🌱 En la actualidad me encuentro aprendiendo flutter he visto que es un framework bastante bueno para las aplicaciones mobile
-- 💞️ Me encanta ayudar pienso que esto nos ayuda a crecer como profesionales no me importa el lenguaje porque el aprendizaje es lo mas divertido de ser desarrollador de software
+Desarrollador full-stack con experiencia en una amplia gama de tecnologías, incluyendo PHP (Laravel), JavaScript (Angular, Node.js, React, Web Components), Python, Java (Spring Boot) y .NET C#. Me apasiona la creación de aplicaciones web robustas y escalables, utilizando arquitecturas limpias, patrones de diseño y microservicios.
+
+Mi experiencia abarca desde el desarrollo de APIs REST hasta el manejo de bases de datos SQL (MySQL) y NoSQL (MongoDB). Utilizo Git para el control de versiones y tengo conocimientos en Docker y Linux para trabajar en entornos de desarrollo modernos.
+
+Actualmente, estoy profundizando en seguridad informática, con el objetivo de implementar aplicaciones más seguras y proteger los datos de los usuarios. Mi experiencia en metodologías ágiles (Scrum, Kanban) me permite colaborar eficazmente en equipos multidisciplinarios.
+
 - 📫 How to reach me https://www.linkedin.com/in/cristianrios8b9595188/
 
 <!---
